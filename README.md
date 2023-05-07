@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on GG
 - 📫 How to reach me tranducduyy2003@gmail.com
                                                                   ✿◕ ‿ ◕✿
+                                                                  
+🚀 Start UI [web] is an opinionated UI starter with ⚛️ React, ▲ NextJS, ⚡️ Chakra UI, ⚛️ TanStack Query & 🐜 Formiz 
 <!---
 duytd123/duytd123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
